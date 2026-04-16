@@ -71,7 +71,7 @@ Types of testing include:
 •	Integration Testing 
 •	System Testing 
 •	User Acceptance Testing (UAT) 
-👉 Good testing = better quality software.
+ Good testing = better quality software.
 
 6. Deployment
 After testing, the software is released to users.
@@ -101,7 +101,7 @@ There are different ways to follow SDLC depending on the project.
 •	Flexible and iterative 
 •	Work is divided into small cycles (sprints) 
 •	Continuous feedback and improvement 
-👉 Most modern companies use Agile.
+ Most modern companies use Agile.
 
 3. Spiral Model
 •	Combines design and risk analysis 
@@ -128,4 +128,4 @@ SDLC is the backbone of software development. It ensures that software is:
 •	Well-planned 
 •	Properly built 
 •	Thoroughly tested 
-•	Successfully d
+•	Successfully delivered
